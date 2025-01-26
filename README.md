@@ -26,7 +26,7 @@ If you would like to support this project, you can donate using the following cr
 
 <h1 align="center">Firmwares</h1>
 
-## [Firmware differences](https://github.com/PhilipMello/flipper-zero) | [More firmware options (SOON)](#)
+## [Firmware Options](https://github.com/PhilipMello/flipper-zero) | [Resources for Flipper Zero](#)
 
 - ✅ Flipper Firmware (Official): [Github](https://github.com/flipperdevices/flipperzero-firmware) | [Release](https://github.com/flipperdevices/flipperzero-firmware/releases) | [Discord](https://discord.gg/flipper)
 
@@ -49,3 +49,83 @@ If you would like to support this project, you can donate using the following cr
 - ❌ Xvirus Firmware (Dexv): [github](https://github.com/DXVVAY/xvirus-firmware) [***outdated / unactive***] | [Discord](https://discord.gg/jEZYmyKH5n)
 
 ---
+
+<h1 align="center">💡 Resources</h1>
+
+<details>
+  <summary><a href="#firmware"><h1>Firmware</h1></a></summary>
+
+  - [Flipper Firmware (Official)](#install-flipper-official-with-web-installer)
+  - [Unleashed Firmware (DarkFlippers)](#unleashed-firmware-darkFlippers)
+  - [RogueMaster Firmware](#install-github-version-with-web-installer)
+
+</details>
+
+<details>
+  <summary><a href="#applications-plugins"><h1>Applications & Plugins</h1></a></summary>
+
+  - [General](#general)
+  - [Bluetooth](#bluetooth)
+  - [Infrared](#infrared)
+  - [NFC](#nfc)
+  - [Sub-GHz](#sub-ghz)
+  - [BadUSB](#badusb)
+  - [GPIO](#gpio)
+  - [Games](#games)
+  - [Utility/Other](#utilityother)
+
+</details>
+
+---
+
+<h1 align="center"><a href='https://lab.flipper.net/'><img src="https://lab.flipper.net/img/flipper_lab_logo_monochrome.9abd71e3.svg" width="40%"></a>
+</h1>
+
+# Install Flipper Official with [WEB INSTALLER](https://lab.flipper.net/)
+
+<h1 align="center"><a href='https://rogue-master.net'><img src="https://lh3.googleusercontent.com/d/1EqKVTt3clsfM8pFoZVfl4kPzm9oNqWkY" width="40%"></a>
+<br><a href='https://discord.gg/gF2bBUzAFe' target='_blank'><img src='https://lh3.googleusercontent.com/d/1Ytf8DOQZuFhzWUL2Vm-TTPVrdwRt5wi-' alt='Discord' title='Discord'></a>
+&nbsp;<a href='https://www.patreon.com/RogueMaster?filters[tag]=Latest%20Release' target='_blank'><img src='https://lh3.googleusercontent.com/d/1iYQlRQXM7nA4IAdcPwvcKRSTCMoi8tug' alt='Latest PATREON Release' title='Latest PATREON Release'></a>
+&nbsp;<a href='https://shop.rogue-master.net/' target='_blank'><img src='https://lh3.googleusercontent.com/d/1jMPWENvOTabzjJALFj82U72LGsRWuUuQ' alt='RM Merch'' title='RM Merch'></a>
+&nbsp;<a href='https://github.com/RogueMaster/awesome-flipperzero-withModules' target='_blank'><img src='https://lh3.googleusercontent.com/d/1gjui0-UZNerG13PUblXjmr1YaSAjIf2k' alt='More Research / Assets' title='More Research / Assets'></a></h1>
+
+# Install RogueMaster Version With [WEB INSTALLER](https://lab.flipper.net/?url=https%3A%2F%2Frogue-master.net%2F%3Ffile%3DRM0122-1815-0.420.0-2b43189.tgz&channel=RM0122-1815-0.420.0-2b43189&version=0.420.0)
+
+---
+
+<h3 align="center">
+<a href="https://github.com/DarkFlippers/unleashed-firmware">
+<img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" align="center" alt="Unleashed Firmware Logo" border="0">
+</a>
+</h3>
+<div align="center" id="badges">
+	<a href="https://discord.unleashedflip.com">
+		<img src="https://img.shields.io/discord/937479784148115456?style=flat-square&logo=discord&label=Discord&color=%237289DA&link=https%3A%2F%2Fdiscord.unleashedflip.com%2F" alt="Discord server"/>
+	</a>
+	<a href="https://t.me/flipperzero_unofficial">
+		<img src="https://img.shields.io/endpoint?label=EN%20Channel&style=flat-square&url=https%3A%2F%2Fmogyo.ro%2Fquart-apis%2Ftgmembercount%3Fchat_id%3Dflipperzero_unofficial" alt="EN TG channel"/>
+	</a>
+	<a href="https://t.me/flipperzero_unofficial_ru">
+		<img src="https://img.shields.io/endpoint?label=RU%20Channel&style=flat-square&url=https%3A%2F%2Fmogyo.ro%2Fquart-apis%2Ftgmembercount%3Fchat_id%3Dflipperzero_unofficial_ru" alt="RU TG channel"/>	
+	</a>
+	<a href="https://t.me/flipperzero_unofficial_ua">
+		<img src="https://img.shields.io/endpoint?label=UA%20Channel&style=flat-square&url=https%3A%2F%2Fmogyo.ro%2Fquart-apis%2Ftgmembercount%3Fchat_id%3Dflipperzero_unofficial_ua" alt="UA TG channel"/>
+	</a>
+</div>
+
+# Install Unleashed Version With [WEB INSTALLER](https://lab.flipper.net/?url=https://unleashedflip.com/fw/unlshd-080/flipper-z-f7-update-unlshd-080.tgz&channel=release-cfw&version=unlshd-080)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Next-Flip/Momentum-Firmware/refs/heads/dev/.github/assets/logo.png" alt="Momentum Firmware">
+  <h2 align="center">for Flipper Zero</h2>
+</p>
+
+<h2 align="center">
+  <a href="#Install">Install</a> | <a href="#list-of-changes">Features</a> | <a href="https://discord.gg/momentum">Discord</a> | <a href="#%EF%B8%8F-support">Donate</a>
+</h2>
+
+This custom firmware is based on the [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware), and includes most of the awesome features from [Unleashed](https://github.com/DarkFlippers/unleashed-firmware). It is a direct continuation of the Xtreme firmware, built by the same (and only) developers who made that project special.
+
+# Install Momentum Version With [WEB INSTALLER](https://momentum-fw.dev/update)
