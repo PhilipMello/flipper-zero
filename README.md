@@ -1,6 +1,17 @@
 # Flipper ZeroMulti-tool Device for Geeks
 ![Flipper ZeroMulti-tool Device for Geeks](https://flipperzero.one/img/tild6630-3566-4935-b761-383762663264__sdcard_new.png)
 
+<div align="center">
+<h1>💡 Fimware</h1>
+
+| ![Official](https://img.icons8.com/?size=100&id=nQuaNO36nu68&format=png&color=000000) | ![Rogue Master](https://img.icons8.com/?size=100&id=nQuaNO36nu68&format=png&color=000000) | ![Unleashed](https://img.icons8.com/?size=100&id=nQuaNO36nu68&format=png&color=000000) | ![Momentum](https://img.icons8.com/?size=100&id=nQuaNO36nu68&format=png&color=000000) |
+| ------------------------------------------------------------ | ------------------------------------------------------------| ------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| [Official](#install-flipper-official-with-web-installer)                     | [Rogue Master](#install-roguemaster-version-with-web-installer)  | [Unleashed](#install-unleashed-version-with-web-installer)            | [Momentum](#install-momentum-version-with-web-installer)                   | 
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
+
 ## 💖 Developer Donations
 
 If you would like to support this project, you can donate using the following cryptocurrencies. Your contributions are greatly appreciated! 🙏
@@ -49,6 +60,17 @@ If you would like to support this project, you can donate using the following cr
 - ❌ Xvirus Firmware (Dexv): [github](https://github.com/DXVVAY/xvirus-firmware) [***outdated / unactive***] | [Discord](https://discord.gg/jEZYmyKH5n)
 
 ---
+
+<div align="center">
+<h1>💡 Resources</h1>
+
+| ![Bluetooth](https://img.icons8.com/?size=100&id=zA2H9aJOM8K3&format=png&color=000000) | ![Infrared](https://img.icons8.com/?size=100&id=KIZDDQAMNI2Y&format=png&color=000000) | ![NCF/RFID](https://img.icons8.com/?size=100&id=19970&format=png&color=000000) | ![Sub-Ghz](https://img.icons8.com/?size=100&id=hYoJppw6XRrs&format=png&color=000000) |
+| ------------------------------------------------------------ | ------------------------------------------------------------| ------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| [Bluetooth](#)                     | [Infrared](#)  | [NFC/RFID](#)            | [Sub-Ghz](#)                   | 
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
 
 <h1 align="center">💡 Resources</h1>
 
