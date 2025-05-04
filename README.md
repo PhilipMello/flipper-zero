@@ -64,9 +64,9 @@ If you would like to support this project, you can donate using the following cr
 <div align="center">
 <h1>💡 Resources</h1>
 
-| ![Bluetooth](https://img.icons8.com/?size=100&id=zA2H9aJOM8K3&format=png&color=000000) | ![Infrared](https://img.icons8.com/?size=100&id=KIZDDQAMNI2Y&format=png&color=000000) | ![NCF/RFID](https://img.icons8.com/?size=100&id=19970&format=png&color=000000) | ![Sub-Ghz](https://img.icons8.com/?size=100&id=hYoJppw6XRrs&format=png&color=000000) |
-| ------------------------------------------------------------ | ------------------------------------------------------------| ------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| [Bluetooth](#)                     | [Infrared](#)  | [NFC/RFID](#)            | [Sub-Ghz](https://github.com/PhilipMello/flipper-zero/tree/main/sub-ghz)                   | 
+| ![Bluetooth](https://img.icons8.com/?size=100&id=zA2H9aJOM8K3&format=png&color=000000) | ![Infrared](https://img.icons8.com/?size=100&id=KIZDDQAMNI2Y&format=png&color=000000) | ![NCF/RFID](https://img.icons8.com/?size=100&id=19970&format=png&color=000000) | ![Sub-Ghz](https://img.icons8.com/?size=100&id=hYoJppw6XRrs&format=png&color=000000) |  ![Wifi](https://img.icons8.com/?size=100&id=v7tOAXMgasm0&format=png&color=000000) |
+| ------------------------------------------------------------ | ------------------------------------------------------------| ------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Bluetooth](#)                     | [Infrared](#)  | [NFC/RFID](#)            | [Sub-Ghz](https://github.com/PhilipMello/flipper-zero/tree/main/sub-ghz)                   | [Wifi](https://github.com/PhilipMello/flipper-zero/tree/main/wifi)
 
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
