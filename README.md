@@ -119,7 +119,7 @@ If you would like to support this project, you can donate using the following cr
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Next-Flip/Momentum-Firmware/refs/heads/dev/.github/assets/logo.png" alt="Momentum Firmware">
+  <img src="https://raw.githubusercontent.com/Next-Flip/Momentum-Firmware/dev/.github/assets/logo_dark.png" alt="Momentum Firmware">
   <h2 align="center">for Flipper Zero</h2>
 </p>
 
