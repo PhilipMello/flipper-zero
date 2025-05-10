@@ -1,5 +1,5 @@
 # Flipper ZeroMulti-tool Device for Geeks
-![Flipper ZeroMulti-tool Device for Geeks](https://flipperzero.one/img/tild6630-3566-4935-b761-383762663264__sdcard_new.png)
+![Flipper ZeroMulti-tool Device for Geeks](https://raw.githubusercontent.com/PhilipMello/icons/main/flipper/flipper-zero-multi-tool-device-for-geeks-img-05.webp)
 
 <div align="center">
 <h1>💡 Fimware</h1>
@@ -32,7 +32,7 @@ If you would like to support this project, you can donate using the following cr
 > **Note**: If your don't have the keys, is not your money.
 
 ---
-![Flipper ZeroMulti-tool Device for Geeks](https://flipperzero.one/img/tild3830-3238-4534-b363-373565663838__gpio_new.png)
+![Flipper ZeroMulti-tool Device for Geeks](https://raw.githubusercontent.com/PhilipMello/icons/main/flipper/flipper-zero-multi-tool-device-for-geeks-img-06.webp)
 ---
 
 <h1 align="center">Firmwares</h1>
